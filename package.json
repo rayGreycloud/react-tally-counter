@@ -1,7 +1,10 @@
 {
   "name": "react-tally-counter",
   "version": "0.1.0",
+  "description": "Animated tally counter component",
   "private": true,
+  "author": "rayGreycloud",
+  "license": "MIT",
   "dependencies": {
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
